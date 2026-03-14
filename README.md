@@ -82,8 +82,3 @@ If you’re starting out: block out first, keep it simple, and iterate — clari
 
 ### ⚖️ License
 This repository is licensed under the **MIT License** — explore, learn, and build your own 3D worlds.
-
----
-
-*Built vertex by vertex, with patience and polygons 🧩  
-— Ádám*
